@@ -1,4 +1,4 @@
-package Proj2;
+package Proj2_3;
 
 import java.util.Random;
 

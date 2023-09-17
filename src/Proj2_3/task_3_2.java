@@ -1,4 +1,4 @@
-package Proj2;
+package Proj2_3;
 
 public class task_3_2
 {
